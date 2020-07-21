@@ -67,8 +67,6 @@ class GomapAzeWidget extends CWidget
         $cs->registerScriptFile($assets . '/js/main.js', CClientScript::POS_END);
         $cs->registerScriptFile($assets . '/js/superagent.js', CClientScript::POS_END);
 
-
     }
-
 }
 ?>
